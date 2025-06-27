@@ -35,7 +35,7 @@ Explore the full dashboard on Tableau Public:
 ## 📝 Medium Blog Post
 
 Read the full project breakdown on Medium:  
-👉 [HR Analytics Made Simple: Creating a Data-Driven Dashboard in Tableau]((https://medium.com/@kavengialex/hr-analytics-made-simple-creating-a-data-driven-dashboard-in-tableau-4971e24c0b76))
+👉 [HR Analytics Made Simple: Creating a Data-Driven Dashboard in Tableau](https://medium.com/@kavengialex/hr-analytics-made-simple-creating-a-data-driven-dashboard-in-tableau-4971e24c0b76)
 
 ## 🚀 How to Use This Repo
 
